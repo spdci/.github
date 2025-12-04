@@ -2,6 +2,8 @@
 
 ![Logo](https://github.com/spdci/.github/blob/main/profile/DCI_logo.svg)
 
+<br/><br/>
+
 # About the Digital Convergence Initiative (DCI)
 
 - A joint effort by USP2030 members, governments, development partners, civil society and the private sector aimed at creating integrated and interoperable social protection information systems.
