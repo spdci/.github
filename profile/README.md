@@ -1,6 +1,6 @@
 
 
-![Logo](https://github.com/spdci/.github/blob/main/profile/DCILogoHorizontal.png)
+![Logo](https://spdci.org/wp-content/themes/sp-convergence-website/dist/Components/NavigationMain/Assets/logo-ec8c66b69a.svg)
 
 # About the Digital Convergence Initiative (DCI)
 
