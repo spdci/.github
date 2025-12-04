@@ -1,6 +1,7 @@
 
 
-![Logo](https://github.com/spdci/.github/blob/main/profile/DCI_logo.svg)
+
+[<img src="https://github.com/spdci/.github/blob/main/profile/DCI_logo.svg">](https://spdci.org)
 
 <br/><br/>
 
